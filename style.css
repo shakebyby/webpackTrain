@@ -1,0 +1,13 @@
+html,body,head,div,aside,article,p,header,section,footer,ul,li,ol,dl,dt,dd{
+	margin:0;
+	padding:0;
+	list-style:none;
+	box-sizing:border-box;
+}
+.sf-content{
+	width:100%;
+	padding:2px 5px;
+	min-height:50px;
+	background-color:red;
+}
+
